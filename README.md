@@ -34,3 +34,9 @@
 
 - Remix Ethereum IDE
   - 주소 : https://remix.ethereum.org/
+
+
+
+#### 개발 참고 사이트
+
+- https://steemit.com/kr-dev/@nida-io/2oduk2-erc20-1
